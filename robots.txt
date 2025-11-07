@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://bextussusa.github.io/Travel//sitemap.xml
+Sitemap: https://bextussusa.github.io/Render//sitemap.xml
+
 
